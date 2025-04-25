@@ -1,0 +1,17 @@
+
+---
+
+## 🚀 Getting Started
+
+### 🔧 Prerequisites
+
+- Python 3.7+
+- Google Chrome Browser
+- `pip` (Python package installer)
+
+### 📦 Installation
+
+Install the required dependencies by running:
+
+```bash
+pip install selenium webdriver-manager
